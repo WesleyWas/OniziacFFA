@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OniziacFFA:jar">
+    <output-path>D:/Développement/Développement/OniziacReborn/3/plugins</output-path>
+    <root id="archive" name="OniziacFFA.jar">
+      <element id="module-output" name="OniziacFFA" />
+      <element id="extracted-dir" path="D:/Développement/Développement/spigot-api-1.7.10-R0.1-20140904.092507-105.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

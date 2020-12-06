@@ -1,0 +1,16 @@
+main: net.weswaas.oniziacffa.OniziacFFA
+author: Weswaas
+name: OniziacFFA
+version: 2.0
+commands:
+  spec:
+    description: Add / remove a player from the specs.
+  stats:
+    description: Stats command.
+  freeze:
+    description: Freeze a player
+  gamemode:
+    description: Change player's gamemode
+    aliases: [gm]
+  fly:
+    description: Allow player to fly
